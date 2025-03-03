@@ -17,7 +17,7 @@ function drawHeart(x, y, size) {
 function drawText(x, y) {
     ctx.fillStyle = "white";
     ctx.font = "50px Arial";
-    ctx.fillText("Hello!", x, y);
+    ctx.fillText("Chúc em bé của anh một buổi chiều vui vẻ nho!", x, y);
 }
 
 function drawConfetti(x, y) {
